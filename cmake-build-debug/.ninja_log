@@ -1,0 +1,25 @@
+# ninja log v5
+2	319	1716164451906283695	CMakeFiles/SimulatedAnnealing.dir/Individuo/Item.cpp.o	c960683972b4c0cb
+2	1058	1718582943595354563	CMakeFiles/SimulatedAnnealing.dir/MetodoPopulacional/PhiLambda.cpp.o	32ae38a390ff67ca
+2	826	1718582943359351909	CMakeFiles/SimulatedAnnealing.dir/Individuo/Individuo.cpp.o	fbb7c529315bbcdb
+1	822	1718582943351351819	CMakeFiles/SimulatedAnnealing.dir/main.cpp.o	8b4afd83644977eb
+2	1170	1718582943703355777	CMakeFiles/SimulatedAnnealing.dir/Individuo/TipoMochila.cpp.o	3d7e6e7705448390
+1	22	1718583349855922433	build.ninja	fc8a3ac67b827d38
+1298	1404	1718582943939358430	SimulatedAnnealing	9a288e9688106396
+3	1123	1718582943659355282	CMakeFiles/SimulatedAnnealing.dir/Cruzamento/Uniforme.cpp.o	f318296b88f28ad2
+1	1298	1718582943831357217	CMakeFiles/SimulatedAnnealing.dir/AlgoritmoGenetico.cpp.o	30fe6bb78e41712f
+3	359	1718564154589944731	CMakeFiles/SimulatedAnnealing.dir/Gene/GeneMochila.cpp.o	d5213e7324c4df2d
+3	979	1718582015436918623	CMakeFiles/SimulatedAnnealing.dir/Aleatorio.cpp.o	9e7029a8f491105a
+3	1163	1718582943699355732	CMakeFiles/SimulatedAnnealing.dir/Selecao/Torneio.cpp.o	bc7c79bea1028aa3
+1	25	1718583349855922433	build.ninja	85730f0578572dc0
+2	399	1718583433956868034	CMakeFiles/AlgoritmoGenetico.dir/Gene/GeneMochila.cpp.o	768a3712f12da654
+2	791	1718583434352872487	CMakeFiles/AlgoritmoGenetico.dir/Individuo/Individuo.cpp.o	129fc0038e208e2a
+2	817	1718583434376872757	CMakeFiles/AlgoritmoGenetico.dir/Aleatorio.cpp.o	38e8a04dacd6412d
+1	905	1718583434464873746	CMakeFiles/AlgoritmoGenetico.dir/Individuo/Item.cpp.o	c9fbc4a4ca12b706
+1	950	1718583434512874286	CMakeFiles/AlgoritmoGenetico.dir/main.cpp.o	539083b00979b8b9
+3	1034	1718583434596875231	CMakeFiles/AlgoritmoGenetico.dir/MetodoPopulacional/PhiLambda.cpp.o	1b1b3641b17250f6
+3	1119	1718583434680876175	CMakeFiles/AlgoritmoGenetico.dir/Cruzamento/Uniforme.cpp.o	f8579a49ef1ab9d2
+3	1120	1718583434680876175	CMakeFiles/AlgoritmoGenetico.dir/Selecao/Torneio.cpp.o	ff047f013add6e63
+1	1218	1718583434780877299	CMakeFiles/AlgoritmoGenetico.dir/Individuo/TipoMochila.cpp.o	4d91611944eba66d
+1	1250	1718583434812877659	CMakeFiles/AlgoritmoGenetico.dir/AlgoritmoGenetico.cpp.o	3756b3141fb7ebe4
+1250	1356	1718583434916878828	AlgoritmoGenetico	c6d161e4d271341f
